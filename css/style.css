@@ -1272,7 +1272,11 @@ body.light hr.separator {
   }
 
   .btn.btn-download:before {
-    content: "\f019";
+    content: "\f1c1";
+  }
+
+  .btn.btn-ext:before {
+    content: "\f08e";
   }
 
   .btn.btn-contact:before {
