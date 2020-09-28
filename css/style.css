@@ -1072,7 +1072,7 @@ body.light hr.separator {
 }
 
 .contact .contactform .output_message.success:before {
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: "\f14a";
   padding-right: 10px;
 }
@@ -1082,7 +1082,7 @@ body.light hr.separator {
 }
 
 .contact .contactform .output_message.error:before {
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: "\f071";
   padding-right: 10px;
 }
@@ -1244,7 +1244,7 @@ body.light hr.separator {
   }
 
   .btn:before {
-    font: 15px/1.2em FontAwesome;
+    font: 15px/1.2em "Font Awesome 5 Free";
     color: #fff;
     position: absolute;
     height: 100%;
@@ -1272,11 +1272,11 @@ body.light hr.separator {
   }
 
   .btn.btn-download:before {
-    content: "\f1c1";
+   content: "\f1c1";
   }
 
   .btn.btn-ext:before {
-    content: "\f08e";
+   content: "\f35d";
   }
 
   .btn.btn-contact:before {
