@@ -1,5 +1,5 @@
 blog-post.html
 blog.html
 portfolio.html
-.DS_Store
+*/*.DS_Store
 
